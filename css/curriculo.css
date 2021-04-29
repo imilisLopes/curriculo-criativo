@@ -17,7 +17,9 @@ border-radius: 10px;
 }
 
 .coluna {
-    border: 2px solid rgb(175, 7, 105);
-    
+    padding: 10px;
+    border: 2px solid rgb(216, 11, 131);
+    border-radius: 10px;
     margin: 15px;
+
 }
